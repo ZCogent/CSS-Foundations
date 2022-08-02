@@ -1,0 +1,12 @@
+.Click,
+.No-me{
+ font-size: 28px;
+ font-family: Helvetica, 'Times New Roman',sans-serif;
+}
+.Click{
+ background-color: black;
+ color: white;
+}
+.No-me{
+ background-color: yellow;
+}
